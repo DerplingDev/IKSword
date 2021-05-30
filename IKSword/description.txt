@@ -1,0 +1,5 @@
+This sword will insta-kill ANY mob similar to how the black hole pickaxe will destroy anything. Except this will drop loot and actually have effects on the world USUALLY.
+Works on Calamity and other damage cap mods.
+For Gameraiders101 to use in his series.
+Update 1.1.1:
+Added an icon, homepage, and GitHub.
